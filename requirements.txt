@@ -4,3 +4,7 @@ langchain
 langchain-community
 pypdf
 langchain-google-genai
+sentence-transformers
+transformers
+huggingface-hub
+torch
