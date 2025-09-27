@@ -29,7 +29,7 @@ os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 # ==============================
 # 2) Streamlit page setup
 # ==============================
-st.set_page_config(page_title="AI-Powered HR Assistant (Gemini + HF Embeddings)", layout="wide")
+st.set_page_config(page_title="AI-Powered HR Assistant (Gemini + HF Embeddings.)", layout="wide")
 st.title("🤖 AI-Powered HR Assistant")
 st.caption("Upload an HR policy PDF and ask questions. Powered by Gemini for answers, HuggingFace for embeddings.")
 
