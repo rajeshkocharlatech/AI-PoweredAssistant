@@ -1,4 +1,5 @@
-# 🎈 Blank app template
+# 🎈AI-PoweredAssistant
+
 
 A simple Streamlit app template for you to modify!
 
